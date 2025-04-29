@@ -1,0 +1,9 @@
+# macOS stuff
+.DS_Store
+
+# Python venv
+venv/
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
