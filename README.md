@@ -18,7 +18,12 @@ Welcome! This is a personal project to simulate real-world biostatistics work us
 
 ## 📁 Project Structure
 
-clinical-trial-analysis/ ├── data/ # Raw datasets (CSV, Excel, etc) ├── src/ # Scripts for cleaning, analysis, visualization ├── notebooks/ # Jupyter notebooks for EDA and summary ├── reports/ # Outputs (charts, tables, PDFs) ├── README.md # You're reading it!
+clinical-trial-analysis/ 
+├── data/ # Raw datasets (CSV, Excel, etc) 
+├── src/ # Scripts for cleaning, analysis, visualization 
+├── notebooks/ # Jupyter notebooks for EDA and summary 
+├── reports/ # Outputs (charts, tables, PDFs) 
+├── README.md
 
 
 ## ✅ Goals
