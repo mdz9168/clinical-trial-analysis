@@ -16,14 +16,7 @@ Welcome! This is a personal project to simulate real-world biostatistics work us
 - Jupyter Notebooks
 - VS Code
 
-## 📁 Project Structure
-
-clinical-trial-analysis/ 
-├── data/ # Raw datasets (CSV, Excel, etc) 
-├── src/ # Scripts for cleaning, analysis, visualization 
-├── notebooks/ # Jupyter notebooks for EDA and summary 
-├── reports/ # Outputs (charts, tables, PDFs) 
-├── README.md
+<pre><code>## 📁 Project Structure ``` clinical-trial-analysis/ ├── data/ # Raw datasets (CSV, Excel, etc) ├── src/ # Scripts for cleaning, analysis, visualization ├── notebooks/ # Jupyter notebooks for EDA and reporting ├── reports/ # Outputs: charts, summary tables, written reports ├── README.md # Project overview and structure ``` </code></pre>
 
 
 ## ✅ Goals
