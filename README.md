@@ -25,6 +25,15 @@ Welcome! This is a personal project to simulate real-world biostatistics work us
 ├── reports/ # Outputs: charts, summary tables, written reports 
 ├── README.md # Project overview and structure ``` </code></pre>
 
+## ▶️ How to Run
+
+1. Clone the repo
+2. Create a virtual environment
+3. Run:
+   ```bash
+   python src/cleaning.py
+   python src/analysis.py
+   jupyter lab
 
 ## ✅ Goals
 
