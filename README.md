@@ -31,3 +31,12 @@ clinical-trial-analysis/
 - Mimic a real biostats workflow
 - Sharpen data cleaning + statistical analysis skills
 - Build something portfolio-worthy!
+
+## 📄 Summary Report & Visuals
+
+- [EDA Summary Report](reports/summary.md)
+- Visuals:
+  - ![Top Sponsors](reports/top_sponsors.png)
+  - ![Completion Timeline](reports/completion_timeline.png)
+  - ![Study Types](reports/study_type_distribution.png)
+  - ![Missing Data](reports/missing_data.png)
